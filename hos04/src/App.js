@@ -1,5 +1,4 @@
-// Section10-SharingState.js
-// https://react.dev/learn/managing-state#sharing-state-between-components
+
 import { useState } from 'react';
 
 export default function Accordion() {
